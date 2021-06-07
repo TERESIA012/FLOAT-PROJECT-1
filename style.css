@@ -1,0 +1,27 @@
+main {
+    background-color: burlywood;
+    overflow: scroll;
+    width: 65%;
+    color: black;
+}
+#one {
+    float: left;
+    height: 200px;
+    width: 300px;
+    margin: 0 10px 0 0;
+
+}
+#two {
+    float: right;
+    margin: 10px 0 0 10px;
+
+}
+#three {
+    width:100%;
+}
+p {
+    margin: 5px;
+    margin-bottom: 10px;
+    font-size: 00.9em;
+    text-align: justify;
+}
